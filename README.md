@@ -37,8 +37,8 @@ Motivated Junior Full Stack Developer with hands-on experience building real-wor
 
 ## 📄 Resume & PDF Portfolio
 
-- **Resume (PDF):** [Download here](./portfolio/Hein-Htet-Aung-Resume.pdf)
-- **Project Portfolio (PDF):** [Download here](./portfolio/Hein-Htet-Aung-Projects.pdf)
+- **Resume (PDF):** [Download here](./portfolio/DAVID-Resume.pdf)
+- **Project Portfolio (PDF):** [Download here](./portfolio/David-Portfolio.pdf)
 
 ---
 
