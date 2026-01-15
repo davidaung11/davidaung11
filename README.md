@@ -45,3 +45,6 @@ Tools: Git, GitHub, VS Code, Postman, Figma
 - 📧 **Email:** heinhtetaung5698@gmail.com  
 - 🌍 **Location:** Bangkok, Thailand  
 - 🔗 **LinkedIn:** [linkedin.com/in/hein-htet-aung-48181b27a](https://linkedin.com/in/hein-htet-aung-48181b27a)
+- 🌐 Portfolio: https://heinhtetaungdavid5698.my.canva.site/
+---
+> I’m currently looking for **Junior Frontend / React Developer** roles where I can grow, learn, and build real user-facing products.
