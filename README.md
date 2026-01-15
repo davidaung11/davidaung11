@@ -1,17 +1,15 @@
-# Hein Htet Aung (David) – Junior Full Stack Developer
+# Hein Htet Aung (David) –Junior Front-end Developer
 
-Motivated Junior Full Stack Developer with hands-on experience building real-world applications using **Next.js, React, Node.js, TypeScript, Supabase, and Tailwind CSS**. Currently completing a Cooperative Internship at **Sprouting Tech (Thailand)**, working on production client projects such as restaurant ordering and hotel booking systems.
-
+Junior Frontend Developer with hands-on experience building responsive, modern, and user-focused web interfaces using React, Next.js, TypeScript, and Tailwind CSS. Completed a Cooperative Internship at Sprouting Tech (Thailand), working on real restaurant and hotel booking platforms with a strong focus on UI development, form handling, and API-connected components.
 ---
 
-## 🚀 Tech Stack
+## 🚀 Frontend Tech Stack
 
-- **Frontend:** React, Next.js (App Router), Tailwind CSS
-- **Backend:** Node.js, REST APIs, Supabase (PostgreSQL), JWT Auth, RLS
-- **Languages:** JavaScript / TypeScript, Python, Java, C#
-- **Tools:** Git, GitHub, VS Code, Postman, Figma
-- **Networking:** Cisco CCNA (Routing, Switching, Network Security)
-
+Core: React, Next.js (App Router), Tailwind CSS
+UI & UX: Responsive Design, Form Handling, State Management
+Data & APIs: Supabase (PostgreSQL), REST APIs, Authentication (JWT)
+Languages: JavaScript / TypeScript
+Tools: Git, GitHub, VS Code, Postman, Figma
 ---
 
 ## 🧩 Featured Projects
